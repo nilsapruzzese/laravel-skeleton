@@ -1,5 +1,7 @@
 # Laravel Skeleton
-- 
+
+---
+
 ## Pre-installed packages
 - spatie/laravel-permissions
 - spatie/data-transfer-objects
