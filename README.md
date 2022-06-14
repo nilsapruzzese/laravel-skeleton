@@ -1,8 +1,7 @@
 # Laravel Skeleton
 
----
-
 ## Pre-installed packages
+- regnerisch/laravel-beyond
 - spatie/laravel-permissions
 - spatie/data-transfer-objects
 - spatie/laravel-query-builder
