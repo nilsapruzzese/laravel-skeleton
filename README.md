@@ -1,4 +1,4 @@
-# Laravel Skeleton
+# Blog
 
 ## Pre-installed packages
 - regnerisch/laravel-beyond
@@ -16,5 +16,3 @@ Run `php artisan key:generate`. to generate application key.
 
 ### 4. Serve application
 Run `php artisan serve`.
-
-<span style="color:red;">Note: The skeleton doesn't include a frontend.</span>
